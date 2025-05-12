@@ -62,7 +62,7 @@ const LandingPage = () => {
               </div>
 
               <h1 className="text-5xl text-black font-medium mb-6 leading-tight">
-                Ace Interviews with <br />
+                Ace your Interviews with <br />
                 <span className="text-transparent bg-clip-text bg-[radial-gradient(circle,_#FF9324_0%,_#FCD760_100%)] bg-[length:200%_200%] animate-text-shine font-semibold">
                   AI-Powered
                 </span>{" "}
