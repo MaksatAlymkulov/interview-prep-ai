@@ -137,7 +137,7 @@ const LandingPage = () => {
 
       {/* Footer - gray as intended */}
       <div className="text-sm bg-gray-50 text-secondary text-center p-5 mt-5">
-        Made with ❤️... Happy Coding
+        © 2025 Maksat. All rights reserved.
       </div>
 
       {/* Modal */}
